@@ -28,6 +28,8 @@ width: 100%;
    flex-direction: column;
 }
 
+#progect a{
+    color:black;
 }
 li {
    
